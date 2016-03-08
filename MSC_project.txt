@@ -1,0 +1,5 @@
+references:
+
+
+mobile_cloud_main:  http://cmslab.snu.ac.kr/portfolio-items/big-data-engines/
+logo_new: http://cloudtimes.org/2013/12/20/gartner-the-internet-of-things-will-grow-30-times-to-26-billion-by-2020/
